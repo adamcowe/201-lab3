@@ -1,6 +1,6 @@
 'use strict';
 
-//validation Function//
+//validation Function - Please excuse the function, I did theses labs out of order due to a missed class//
 
 function processResponse(inQuestion, inAnswers) {
   var userAnswer = prompt(inQuestion).toLowerCase();

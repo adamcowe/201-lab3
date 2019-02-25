@@ -2,22 +2,27 @@ body {
   background: rgb(131, 111, 111);
 }
 header {
-   color: rgb(255,100,100);
+   color: rgb(236, 86, 27);
    font-family: Arial;
    font-size: 20px;
 }
 h1 {
   color: rgb(94, 224, 34);
   font-family: Arial;
-  font-size: 20px;
+  font-size: 22px;
 }
 p {
   color: rgb(48, 39, 172);
   font-family: Arial;
-  font-size: 20px;
+  font-size: 14px;
 }
 .images {
   margin-left: 100px;
+}
+.questions {
+  color: rgb(234, 250, 11);
+  font-family: Arial;
+  font-size: 16px;
 }
 /*used Brian's lecture example (wireframe-build) for the below*/
 button {
