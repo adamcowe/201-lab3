@@ -70,7 +70,7 @@ if (petsAnswerCorrect) {
 
 //number game, Thom also assisted in our team lab...//
 //...but not able to get the correct answer code to work consistently?//
-//I was a able to debug, move the var above the loop and it looks goog//
+//I was a able to debug, move the numAnswer var above the loop and it looks goog//
 
 var guessCount = 0;
 var guessMax = 9;
